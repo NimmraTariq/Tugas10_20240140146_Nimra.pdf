@@ -7,6 +7,9 @@ NIM: 20240140146
 
 <img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/f24dbdab-f2c4-458c-a543-98d2cb369f56" />
 
+<img width="469" height="297" alt="image" src="https://github.com/user-attachments/assets/db702516-a62e-4543-8cdf-9f1d711afdd8" />
+
+
 ## Tech Stack
 - React (with Vite as the build tool)
 - Tailwind CSS for styling
